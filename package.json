@@ -1,0 +1,12 @@
+{
+  "name": "typescript-tutorials",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AndreiBacescu/typescript-tutorials.git",
+  "author": "Andrei Bacescu <andreibacescu93@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  }
+}
